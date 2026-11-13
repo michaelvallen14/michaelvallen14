@@ -5,6 +5,7 @@ Data science graduate from the University of Melbourne, based in Melbourne. I li
 Before data, I ran my own streetwear brand for two years, handling marketing, suppliers, pricing and every customer message myself. That's where I learned that the useful question is usually "so what should we do?"
 
 **Tools:** Python (pandas, scikit-learn, PySpark, GeoPandas) · R · SQL (SQLite) · Power BI · Excel · Git
+
 **Languages:** English · Bahasa Indonesia · basic Mandarin
 
 ### Projects
