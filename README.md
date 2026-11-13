@@ -1,18 +1,12 @@
 ## Hi, I'm Michael 👋
 
-Data science graduate from the University of Melbourne, based in Melbourne. I like turning messy data into a clear answer someone can actually act on.
+Data science graduate from the University of Melbourne, based in Melbourne. I like turning messy data into a clear answer someone can actually act on. I use AI to work faster, but I still check every number myself, because AI can't replace human creativity or judgement.
 
 Before data, I ran my own streetwear brand for two years, handling marketing, suppliers, pricing and every customer message myself. That's where I learned that the useful question is usually "so what should we do?"
 
 **Tools:** Python (pandas, scikit-learn, PySpark, GeoPandas) · R · SQL (SQLite) · Power BI · Excel · Git
 
 **Languages:** English · Bahasa Indonesia · basic Mandarin
-
-### How I think about AI
-
-AI gets better every year. Some people are scared it'll take control of our lives. I'd rather embrace it. I think in the next 5 to 10 years, people who don't know how to use AI, like autonomous agents and scheduled tasks, will work a lot slower than people who do. So I automate most of my own stuff with AI.
-
-That doesn't mean handing all my work to AI. Human creativity still matters, and AI can't do that kind of creative thinking. Someone still needs to check what it produces, and that's the human's job.
 
 ### Projects
 
