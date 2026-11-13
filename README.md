@@ -12,6 +12,7 @@ Before data, I ran my own streetwear brand for two years, handling marketing, su
 
 | Project | What it answers | Stack |
 |---|---|---|
+| [Job Radar](https://github.com/michaelvallen14/job-radar) | Which job sites actually get me replies? An AI agent reads my job emails every day and keeps my application tracker and dashboard up to date on its own | Python, SQL, Streamlit, AI agent |
 | [JFK Flat Fare vs Rideshare Surge](https://github.com/michaelvallen14/nyc-taxi-jfk-flat-fare) | When does a yellow taxi's fixed $70 JFK fare beat surge-priced rideshare, and when should drivers queue? (2.5M trips) | PySpark, GeoPandas, scikit-learn |
 | [BNPL Merchant Ranking](https://github.com/michaelvallen14/bnpl-merchant-ranking) | Which 100 of 4,000+ merchants should a Buy Now Pay Later company onboard? (group project) | Python, PySpark, ABS data |
 | [Coral Trout GLM Report](https://github.com/michaelvallen14/coral-trout-glm) | Do protected reefs hold more coral trout? A consulting-style report for a non-technical client | R, GLMs |
