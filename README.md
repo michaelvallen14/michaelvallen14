@@ -20,4 +20,4 @@ Before data, I ran my own streetwear brand for two years, handling marketing, su
 
 ### Contact
 
-📧 michaelvallen14@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/michaelvallen)
+💼 [LinkedIn](https://linkedin.com/in/michaelvallen)
